@@ -10,5 +10,5 @@ int main() {
 	c = (p & 0xff00) >> 8;
 	printf("a = %d\nb = %d\nc = %d\nd = %d\n", a, b, c, d);
 
-	return 0;
+	return 0;；
 }
